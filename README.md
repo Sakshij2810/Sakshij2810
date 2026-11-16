@@ -8,8 +8,10 @@ I'm currently exploring **AI Engineering and Agentic AI**, building projects inv
 
 Outside development, I practice DSA in Java and participate in competitive programming, with **240+ problems solved on Codeforces**.
 
-### Let's connect!
+Let's connect!
 
-[Portfolio](https://sakshi-portfolio-theta-two.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sakshjadhav/) · [GitHub](https://github.com/Sakshij2810) · [Codeforces](https://codeforces.com/profile/Sakshi2810) · [X](https://x.com/Sakshij2810)
 
-📧 [sakshi2020jadhav@gmail.com](mailto:sakshi2020jadhav@gmail.com)
+
+
+
+📧 Email: sakshi2020jadhav@gmail.com
