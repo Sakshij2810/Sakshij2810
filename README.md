@@ -16,5 +16,3 @@ Outside of development, I practice DSA in Java and participate in competitive pr
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sakshij2810)
 
 📧 **Email:** sakshi2020jadhav@gmail.com
-
-https://www.linkedin.com/company/wisteria-jewels/home/
